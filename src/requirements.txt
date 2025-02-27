@@ -1,0 +1,4 @@
+# For Read parquet in Local
+fastparquet==0.10.1
+pyarrow==13.0.0
+pandas==2.1.1
